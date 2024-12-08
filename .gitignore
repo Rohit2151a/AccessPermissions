@@ -1,0 +1,19 @@
+# Virtual environment
+rbac_env/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Django migrations
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
